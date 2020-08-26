@@ -1,0 +1,22 @@
+.cards {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 130px;
+    margin-right: 128px;
+    grid-gap: 31px;
+    margin-top: 59px;
+    margin-bottom: 77px;
+}
+
+@media screen and (max-width: 768px) {
+    .cards {
+        grid-template-columns: auto auto;
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cards {
+        grid-template-columns: auto;
+    }
+}

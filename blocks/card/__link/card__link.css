@@ -1,0 +1,13 @@
+.card__link {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #F58220;
+    text-decoration: none;
+}
+
+.card__link:hover {
+    opacity: 0.5;
+}

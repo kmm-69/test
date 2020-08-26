@@ -1,0 +1,10 @@
+.card__text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #717171;
+    margin-top: 0;
+    margin-bottom: 5px;
+}

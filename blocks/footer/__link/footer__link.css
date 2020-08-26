@@ -1,0 +1,13 @@
+.footer__link {
+    text-decoration: none;
+    color: #727272;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.footer__link:hover {
+    opacity: 0.5;
+}

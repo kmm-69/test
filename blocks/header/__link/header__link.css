@@ -1,0 +1,13 @@
+.header__link {
+  margin-right: 34px;
+  text-decoration: none;
+  color: black;
+}
+
+.header__link:hover {
+    opacity: 0.5;
+}
+
+.header__link:nth-child(2) {
+    margin-right: 0;
+}

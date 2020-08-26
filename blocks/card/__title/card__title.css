@@ -1,0 +1,10 @@
+.card__title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 35px;
+    color: #000000;
+    margin-top: 15px;
+    margin-bottom: 9px;
+}

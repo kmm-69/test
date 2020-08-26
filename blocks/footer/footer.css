@@ -1,0 +1,12 @@
+@import url(./__info/footer__info.css);
+@import url(./__link/footer__link.css);
+@import url(./__links/footer__links.css);
+@import url(./__social-icon/footer__social-icon.css);
+.footer {
+    background: #F3F3F3;
+    padding-top: 37px;
+    padding-bottom: 36px;
+    display: flex;
+    flex-direction: column;
+}
+
