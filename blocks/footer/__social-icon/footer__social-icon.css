@@ -1,8 +1,5 @@
 .footer__social-icon {
     margin-right: 9px;
-    width: 30px;
-    height: 30px;
-    margin-bottom: 18px;
 }
 
 .footer__social-icon:nth-last-of-type(2) {
