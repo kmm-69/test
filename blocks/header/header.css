@@ -2,7 +2,6 @@
 @import url(./__link/header__link.css);
 @import url(./__links-left/header__links-left.css);
 @import url(./__links-right/header__links-right.css);
-@import url(./__logo/header__logo.css);
 .header {
     background-color: #F3F3F3;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
